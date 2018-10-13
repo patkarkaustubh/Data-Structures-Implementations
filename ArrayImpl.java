@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/* Created Array*/
 public class ArrayImpl {
 
 	public static void main(String args[])
